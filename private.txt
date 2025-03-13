@@ -1,0 +1,15 @@
+Mechanism - Connected parts like rods that do something.
+Link - Connected rods consisting of nodes taht can connect to other links, 
+joints - Connection between 2+ links (Binary, Ternary,...)
+-> Lower pair
+-> Higher pairs
+-> Compound pairs
+Classification based on motion - 
+Revolute joint(Robotic arms)
+Prismatic joint
+Screw(translation and rotation dep)
+Cylindrical(indep)
+Spherical,Cam joint, planar, universal
+Degree of freedom - min indep variables to define position and motion of a system
+
+Task - Open up the camera, pick a colour, use it as a marker, draw it across the screen

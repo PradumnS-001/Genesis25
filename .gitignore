@@ -1,7 +1,7 @@
-*txt
-*png
 *venv
 
 Mwebcam.py
 opencvIMG.py
 trackbar.py
+
+webcam.py
