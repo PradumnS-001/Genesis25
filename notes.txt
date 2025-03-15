@@ -1,0 +1,29 @@
+Links
+    Binary
+    Ternary
+    Quaternary
+
+Joint - Connection points between Links - no of links
+    Binary
+    Ternary
+    Quarternary
+
+Joints - contact
+    Lower pair
+    Higher pair
+    Compound pair
+
+Joints - motion
+    Revolute
+    Prismatic
+    Screw - dependant
+    Helical - independant
+    Spherical
+    Planar
+    Cam pair
+    Universal / Hooke joint
+
+DOF (planar) = 3L - 2J - 3G
+    L -> no of links
+    J -> no of joints
+    G -> no of grounded links
